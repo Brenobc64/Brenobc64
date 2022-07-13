@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Brenobc64/Brenobc64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ▫️ Yo!
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenobc64&layout=compact&langs_count=10&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🪡 Currently learning:
+
+```http
+Intermediate:  Java
+```
+
+```http
+Basic:  HTML CSS Javascript
+```
